@@ -1,0 +1,26 @@
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\bin\Debug\VISOR DE IMAGEN.exe.config
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\bin\Debug\VISOR DE IMAGEN.exe
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\bin\Debug\VISOR DE IMAGEN.pdb
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.csproj.AssemblyReference.cache
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR_DE_IMAGEN.Form1.resources
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR_DE_IMAGEN.Properties.Resources.resources
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.csproj.GenerateResource.cache
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.exe
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.pdb
+C:\Users\kelvi\Desktop\SEXTO SEMESTRE FULL\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.exe.config
+C:\Users\esmir\Downloads\VISUAL1\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.csproj.AssemblyReference.cache
+C:\Users\esmir\Downloads\VISUAL1\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.exe.config
+C:\Users\esmir\Downloads\VISUAL1\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.exe
+C:\Users\esmir\Downloads\VISUAL1\PROGRA VISUAL1\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.pdb
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.csproj.AssemblyReference.cache
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.exe.config
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.exe
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.pdb
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\bin\Debug\VISOR DE IMAGEN.exe.config
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\bin\Debug\VISOR DE IMAGEN.exe
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\bin\Debug\VISOR DE IMAGEN.pdb
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\obj\Debug\VISOR_DE_IMAGEN.Form1.resources
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\obj\Debug\VISOR_DE_IMAGEN.Properties.Resources.resources
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.csproj.GenerateResource.cache
+C:\Users\esmir\Desktop\VISOR DE IMAGEN\obj\Debug\VISOR DE IMAGEN.csproj.CoreCompileInputs.cache
