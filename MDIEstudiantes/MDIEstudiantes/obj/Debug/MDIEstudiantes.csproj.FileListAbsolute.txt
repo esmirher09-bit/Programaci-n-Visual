@@ -1,0 +1,42 @@
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe.config
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.pdb
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form2.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form3.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form4.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.pdb
+C:\Users\DELL\OneDrive\Desktop\Programacion visual I\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe.config
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe.config
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.pdb
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.AssemblyReference.cache
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe.config
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form1.resources
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form2.resources
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form3.resources
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form4.resources
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Properties.Resources.resources
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.GenerateResource.cache
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe
+C:\Users\kelvi\Downloads\MDIEstudiantes\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.pdb
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe.config
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\bin\Debug\MDIEstudiantes.pdb
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.AssemblyReference.cache
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe.config
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form1.resources
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form2.resources
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form3.resources
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form4.resources
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.Properties.Resources.resources
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.GenerateResource.cache
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe
+C:\Users\esmir\Desktop\MDIEstudiantes\MDIEstudiantes\obj\Debug\MDIEstudiantes.pdb
