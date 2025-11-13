@@ -1,0 +1,11 @@
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\bin\Debug\OrdenamientoMultihilo.exe.config
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\bin\Debug\OrdenamientoMultihilo.exe
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\bin\Debug\OrdenamientoMultihilo.pdb
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\obj\Debug\OrdenamientoMultihilo.csproj.AssemblyReference.cache
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\obj\Debug\OrdenamientoMultihilo.Form1.resources
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\obj\Debug\OrdenamientoMultihilo.Properties.Resources.resources
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\obj\Debug\OrdenamientoMultihilo.csproj.GenerateResource.cache
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\obj\Debug\OrdenamientoMultihilo.csproj.CoreCompileInputs.cache
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\obj\Debug\OrdenamientoMultihilo.exe
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\obj\Debug\OrdenamientoMultihilo.pdb
+C:\Users\esmir\Desktop\Multithreading\OrdenamientoMultihilo\obj\Debug\OrdenamientoMultihilo.exe.config
